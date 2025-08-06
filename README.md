@@ -1,4 +1,4 @@
-# My fits-file tools for ISAS CMOS event data
+# My tools for ISAS CMOS event data
 
 ## Event fits file converter 
 Python program [`genevtfits.py`](enevtfits.py) convert binary event files in a single directory into an event fits file. 
