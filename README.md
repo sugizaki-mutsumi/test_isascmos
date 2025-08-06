@@ -9,4 +9,4 @@ Example
 $ ./genevtfits.py  (some data dir)/141637  141637.evt
 ```
 ## Analysis example
-- example of plotting PHA histogram and image in juypyter-notebook [ql_isascmosevt.ipynb](ql_isascmosevt.ipynb)
+- Example of plotting PHA histogram and image in juypyter-notebook [ql_isascmosevt.ipynb](ql_isascmosevt.ipynb)
